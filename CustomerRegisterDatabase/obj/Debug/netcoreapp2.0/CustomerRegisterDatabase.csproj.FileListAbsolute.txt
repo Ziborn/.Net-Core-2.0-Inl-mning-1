@@ -1,0 +1,11 @@
+D:\Avancerad Webb asp.net\AvanceradWebbutvStudent\CustomerRegisterDatabase\CustomerRegisterDatabase\bin\Debug\netcoreapp2.0\CustomerRegisterDatabase.deps.json
+D:\Avancerad Webb asp.net\AvanceradWebbutvStudent\CustomerRegisterDatabase\CustomerRegisterDatabase\bin\Debug\netcoreapp2.0\CustomerRegisterDatabase.runtimeconfig.json
+D:\Avancerad Webb asp.net\AvanceradWebbutvStudent\CustomerRegisterDatabase\CustomerRegisterDatabase\bin\Debug\netcoreapp2.0\CustomerRegisterDatabase.runtimeconfig.dev.json
+D:\Avancerad Webb asp.net\AvanceradWebbutvStudent\CustomerRegisterDatabase\CustomerRegisterDatabase\bin\Debug\netcoreapp2.0\CustomerRegisterDatabase.dll
+D:\Avancerad Webb asp.net\AvanceradWebbutvStudent\CustomerRegisterDatabase\CustomerRegisterDatabase\bin\Debug\netcoreapp2.0\CustomerRegisterDatabase.pdb
+D:\Avancerad Webb asp.net\AvanceradWebbutvStudent\CustomerRegisterDatabase\CustomerRegisterDatabase\obj\Debug\netcoreapp2.0\CustomerRegisterDatabase.csprojResolveAssemblyReference.cache
+D:\Avancerad Webb asp.net\AvanceradWebbutvStudent\CustomerRegisterDatabase\CustomerRegisterDatabase\obj\Debug\netcoreapp2.0\CustomerRegisterDatabase.csproj.CoreCompileInputs.cache
+D:\Avancerad Webb asp.net\AvanceradWebbutvStudent\CustomerRegisterDatabase\CustomerRegisterDatabase\obj\Debug\netcoreapp2.0\CustomerRegisterDatabase.AssemblyInfoInputs.cache
+D:\Avancerad Webb asp.net\AvanceradWebbutvStudent\CustomerRegisterDatabase\CustomerRegisterDatabase\obj\Debug\netcoreapp2.0\CustomerRegisterDatabase.AssemblyInfo.cs
+D:\Avancerad Webb asp.net\AvanceradWebbutvStudent\CustomerRegisterDatabase\CustomerRegisterDatabase\obj\Debug\netcoreapp2.0\CustomerRegisterDatabase.dll
+D:\Avancerad Webb asp.net\AvanceradWebbutvStudent\CustomerRegisterDatabase\CustomerRegisterDatabase\obj\Debug\netcoreapp2.0\CustomerRegisterDatabase.pdb
